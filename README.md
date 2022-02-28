@@ -6,7 +6,7 @@
 자료구조 알고리즘의 이해를 위해 다양한 알고리즘을 하나의 시뮬레이터로 구현.
 
 ## 개발과정
-각 주차마다 시뮬레이터를 구현하여 완성된 시뮬레이터들을 하나로 묶어 자료구조 시뮬레이터를 제작하였음.
+각 주차마다 시뮬레이터를 구현하여 완성된 시뮬레이터들을 하나로 묶어 자료구조 시뮬레이터를 제작하였음.  
 ![2](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ba9156ae-1aeb-45c2-9b52-22f11bc2fa69/%EA%B0%84%EB%8B%A82.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220228%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220228T053520Z&X-Amz-Expires=86400&X-Amz-Signature=61a9bfbe6a430f30225e6307ac6b0fae00d0edea38ffa3eee035662dc440ca42&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22%25EA%25B0%2584%25EB%258B%25A82.jpg%22&x-id=GetObject)
 
 
